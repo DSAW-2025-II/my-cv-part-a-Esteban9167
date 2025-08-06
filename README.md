@@ -38,6 +38,15 @@ Crear la estructura de tu CV utilizando solo HTML.
 </html>
 ```
 
+
+# 📄 CV de Esteban Sequeda Henao
+
+Este repositorio contiene mi hoja de vida en formato web, desarrollada con HTML y CSS.
+
+Puedes ver mi CV en línea aquí:  
+[**🌐 Abrir CV en GitHub Pages**](https://dsaw-2025-ii.github.io/my-cv-part-a-Esteban9167/)
+
+
 ## Parte 2: CSS
 
 ### Objetivo
@@ -85,3 +94,4 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
